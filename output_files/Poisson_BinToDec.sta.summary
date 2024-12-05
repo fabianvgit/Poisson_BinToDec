@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk_in'
+Slack : -73.744
+TNS   : -3451.907
+
+Type  : Slow 1100mV 85C Model Setup 'test_clk:connect4|clk_in_01us'
+Slack : -10.166
+TNS   : -479.642
+
+Type  : Slow 1100mV 85C Model Setup 'test_clk:connect4|clk_in_02us'
+Slack : -2.030
+TNS   : -3.943
+
+Type  : Slow 1100mV 85C Model Hold 'clk_in'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'test_clk:connect4|clk_in_01us'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'test_clk:connect4|clk_in_02us'
+Slack : 0.974
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'test_clk:connect4|clk_in_01us'
+Slack : -2.225
+TNS   : -120.879
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk_in'
+Slack : -0.491
+TNS   : -67.260
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'test_clk:connect4|clk_in_02us'
+Slack : -0.394
+TNS   : -1.481
+
+Type  : Slow 1100mV 0C Model Setup 'clk_in'
+Slack : -75.676
+TNS   : -3532.082
+
+Type  : Slow 1100mV 0C Model Setup 'test_clk:connect4|clk_in_01us'
+Slack : -10.295
+TNS   : -468.830
+
+Type  : Slow 1100mV 0C Model Setup 'test_clk:connect4|clk_in_02us'
+Slack : -1.991
+TNS   : -3.853
+
+Type  : Slow 1100mV 0C Model Hold 'clk_in'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'test_clk:connect4|clk_in_01us'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'test_clk:connect4|clk_in_02us'
+Slack : 0.914
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'test_clk:connect4|clk_in_01us'
+Slack : -2.225
+TNS   : -120.086
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk_in'
+Slack : -0.500
+TNS   : -75.957
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'test_clk:connect4|clk_in_02us'
+Slack : -0.394
+TNS   : -1.450
+
+Type  : Fast 1100mV 85C Model Setup 'clk_in'
+Slack : -40.870
+TNS   : -1895.324
+
+Type  : Fast 1100mV 85C Model Setup 'test_clk:connect4|clk_in_01us'
+Slack : -5.356
+TNS   : -261.826
+
+Type  : Fast 1100mV 85C Model Setup 'test_clk:connect4|clk_in_02us'
+Slack : -1.095
+TNS   : -2.138
+
+Type  : Fast 1100mV 85C Model Hold 'clk_in'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'test_clk:connect4|clk_in_01us'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'test_clk:connect4|clk_in_02us'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'test_clk:connect4|clk_in_01us'
+Slack : -1.702
+TNS   : -60.283
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk_in'
+Slack : -0.479
+TNS   : -11.120
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'test_clk:connect4|clk_in_02us'
+Slack : -0.079
+TNS   : -0.158
+
+Type  : Fast 1100mV 0C Model Setup 'clk_in'
+Slack : -38.632
+TNS   : -1776.644
+
+Type  : Fast 1100mV 0C Model Setup 'test_clk:connect4|clk_in_01us'
+Slack : -4.975
+TNS   : -231.241
+
+Type  : Fast 1100mV 0C Model Setup 'test_clk:connect4|clk_in_02us'
+Slack : -0.945
+TNS   : -1.836
+
+Type  : Fast 1100mV 0C Model Hold 'clk_in'
+Slack : -0.175
+TNS   : -3.049
+
+Type  : Fast 1100mV 0C Model Hold 'test_clk:connect4|clk_in_01us'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'test_clk:connect4|clk_in_02us'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'test_clk:connect4|clk_in_01us'
+Slack : -1.702
+TNS   : -58.912
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk_in'
+Slack : -0.473
+TNS   : -11.333
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'test_clk:connect4|clk_in_02us'
+Slack : -0.042
+TNS   : -0.084
+
+------------------------------------------------------------

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Dec  5 15:54:42 2024
+Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+Revision Name : Poisson_BinToDec
+Top-level Entity Name : Poisson_BinToDec
+Family : Cyclone V
+Device : 5CSEMA4U23C6
+Timing Models : Final
+Logic utilization (in ALMs) : 2,167 / 15,880 ( 14 % )
+Total registers : 199
+Total pins : 27 / 314 ( 9 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 2,764,800 ( 0 % )
+Total RAM Blocks : 0 / 270 ( 0 % )
+Total DSP Blocks : 2 / 84 ( 2 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 5 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

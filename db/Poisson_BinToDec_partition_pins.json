@@ -1,0 +1,73 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_start",
+					"strict" : false
+				},
+				{
+					"name" : "o_short_start",
+					"strict" : false
+				},
+				{
+					"name" : "o_tx_ena",
+					"strict" : false
+				},
+				{
+					"name" : "slow_clk1",
+					"strict" : false
+				},
+				{
+					"name" : "slow_clk2",
+					"strict" : false
+				},
+				{
+					"name" : "ready_internal",
+					"strict" : false
+				},
+				{
+					"name" : "o_tx_busy",
+					"strict" : false
+				},
+				{
+					"name" : "tx_out",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lambda[5]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk_in",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

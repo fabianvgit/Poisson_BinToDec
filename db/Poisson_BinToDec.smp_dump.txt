@@ -1,0 +1,10 @@
+
+State Machine - |Poisson_BinToDec|BinToDecimalDiv:connect5|state
+Name state.SEND_U state.SEND_T state.SEND_H state.CALC_U state.CALC_T state.CALC_H state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 
+state.CALC_H 0 0 0 0 0 1 1 
+state.CALC_T 0 0 0 0 1 0 1 
+state.CALC_U 0 0 0 1 0 0 1 
+state.SEND_H 0 0 1 0 0 0 1 
+state.SEND_T 0 1 0 0 0 0 1 
+state.SEND_U 1 0 0 0 0 0 1 
